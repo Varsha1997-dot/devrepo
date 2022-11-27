@@ -1,2 +1,3 @@
 hi today is sunday
-today is sat newww
+today is sat new
+exicuting jenkins upstream/down projects
