@@ -7,8 +7,8 @@ node
    sh "yum install -y git"
 
    stage "3. create folder"
-   sh "mkdir scripted-pipeline2"
+   sh "mkdir scripted-pipeline3"
    
    stage "4. cd scripted-pipelne"
-   sh "echo test data >> testfiles"
+   sh "echo test data >> testfiles-1"
    }
